@@ -4,6 +4,15 @@ nav {
 body {
   overflow-x: hidden;
 }
+/* .top{
+
+} */
+
+
+a:hover{
+  transform: scale(1.5);
+  color: #F05D7A;
+}
 
 .flex-container {
   display: -webkit-flex; /* Safari */
